@@ -1,0 +1,7 @@
+Los comandos que yo he usado han sido:
+
+"ng serve" para iniciar el servidor.
+
+"ng seve -o" para iniciar el servidor y que me lleve diretamente a la página en el navegador.
+
+"ng g c nombreDelComponente" o "ng generate component nombreDelComponente" para generar un nuevo componente.
